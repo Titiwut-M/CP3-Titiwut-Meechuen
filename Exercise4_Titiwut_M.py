@@ -1,0 +1,10 @@
+a = input('Foundation English Score : ')
+b = input('General Business Score : ')
+c = input('Introduction to Computer Systems Score : ')
+d = input('Computer Programming : ')
+
+print('---Your Score---')
+print('Foundation English Score : ',a)
+print('General Business Score : ',b)
+print('Introduction to Computer Systems Score : ',c)
+print('Computer Programming : ',d)
